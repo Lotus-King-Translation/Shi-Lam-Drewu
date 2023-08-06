@@ -32,7 +32,7 @@ msgstr ""
 
 msgctxt "7e79c895785b4533b0d5890ecda9b899"
 msgid "མེད་པ་ མ་ ཡིན་ འཁོར་འདས་ ཀུན་ གྱི་ གཞི་␣༔"
-msgstr ""
+msgstr "Is not non-existent, the ground of all of samsara and nirvana"
 
 msgctxt "d8b0207f1cb54a6e8279b00008d05c5f"
 msgid "འགལ་འདུ་ མ་ ཡིན་ བརྗོད་བྱ་␣འི་ ཡུལ་ ལ་␣ས་ འདས་␣༔"
