@@ -62,7 +62,7 @@ msgstr "In [this] triad, དབྱེ་ཡང་དོན་ལ་ཐ་མི�
 
 msgctxt "1d46adf85a3a420980ef4247a433ab09"
 msgid "རྫོགས་ཆེན་ གཞི་ ཡི་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཤོག་␣༔"
-msgstr ""
+msgstr "Realizing the ground of Dzogchen as it is."
 
 msgctxt "46b6fb3f9a2e46b399c48388542091e5"
 msgid "བསམ་ གྱིས་ མི་ ཁྱབ་ སྒྲོ་འདོགས་ ཀུན་ དང་ བྲལ་␣༔"
