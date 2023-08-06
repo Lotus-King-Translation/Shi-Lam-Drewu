@@ -24,7 +24,7 @@ msgstr "Homage to glorious Samantabhadra!"
 
 msgctxt "6584e3d5908c46d1a4198f813a995468"
 msgid "གདོད་མ་␣འི་ གནས་ལུགས་ རང་བཞིན་ སྤྲོས་ དང་ བྲལ་␣༔"
-msgstr ""
+msgstr "Free from elaboration, intrinsic nature, primordially as it is"
 
 msgctxt "8f9a36410a1048f5929f93f2aa2ac6eb"
 msgid "ཡོད་པ་ མ་ ཡིན་ རྒྱལ་བ་␣ས་ འདི་ མ་ གཟིགས་␣༔"
