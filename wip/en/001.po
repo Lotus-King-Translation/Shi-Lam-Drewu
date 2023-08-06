@@ -75,6 +75,7 @@ msgstr "Grasping [neither] direction; existence and non-existence"
 msgctxt "e67296d8f697428ebde0633161993cd9"
 msgid "འདི་ དོན་ བརྗོད་ ལ་ རྒྱལ་བ་␣འི་ ལྗགས་ ཀྱང་ རྡུགས་␣༔"
 msgstr ""
+"The tongues of the victorious ones are tied in expressing this meaning"
 
 msgctxt "29733e554cf942098cdfd6c81e36b77b"
 msgid "ཐོག་མཐའ་ བར་ མེད་ གཏིང་ གསལ་ ཆེན་པོ་␣འི་ དབྱིངས་␣༔"
