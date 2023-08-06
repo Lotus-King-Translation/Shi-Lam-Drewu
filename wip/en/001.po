@@ -44,7 +44,7 @@ msgstr "Realizing ground of Dzogchen as it is."
 
 msgctxt "3ecb379b2c56416f9831c9f55a2674b4"
 msgid "ངོ་བོ་ སྟོང་པ་␣ས་ རྟག་པ་␣འི་ མཐའ་ ལ་␣ས་ གྲོལ་␣༔"
-msgstr "Through empty essence, free from the extreme of emptiness"
+msgstr "Through empty essence, free from the extreme of permanence"
 
 msgctxt "f733bfa5dc2740039c8efbde34a26a02"
 msgid "རང་བཞིན་ གསལ་བ་␣ས་ ཆད་པ་␣འི་ མུ་ དང་ བྲལ་␣༔"
