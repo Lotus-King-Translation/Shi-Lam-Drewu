@@ -82,7 +82,7 @@ msgstr ""
 
 msgctxt "6776bb41669a42c098ad53e1c1d1a2fa"
 msgid "རྫོགས་ཆེན་ གཞི་ ཡི་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཤོག་␣༔"
-msgstr ""
+msgstr "Realizing the ground of Dzogchen as it is."
 
 msgctxt "0e73f7cd8efa427c88316710e84a6411"
 msgid "རང་ ངོ་ རྣམ་དག་ སྐྱེ་ མེད་ ཀ་དག་ ལ་␣༔"
