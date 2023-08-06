@@ -49,6 +49,7 @@ msgstr "Through empty essence, free from the extreme of permanence"
 msgctxt "f733bfa5dc2740039c8efbde34a26a02"
 msgid "རང་བཞིན་ གསལ་བ་␣ས་ ཆད་པ་␣འི་ མུ་ དང་ བྲལ་␣༔"
 msgstr ""
+"Through luminous intrinsic nature, free from [the extreme] of discontinuity"
 
 msgctxt "62cecdf189194e72b3927c5799352f05"
 msgid "ཐུགས་རྗེ་ འགག་ མེད་ སྣ་ཚོགས་ སྤྲུལ་པ་␣འི་ གཞི་␣༔"
