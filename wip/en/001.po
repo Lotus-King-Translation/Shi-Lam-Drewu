@@ -70,7 +70,7 @@ msgstr "By thinking མི་ཁྱབ་སྒྲོ་འདོགས་ཀུ
 
 msgctxt "a0e697ad0a364d52a43a31cfa3334a86"
 msgid "ཡོད་ དང་ མེད་པ་␣འི་ ཕྱོགས་ འཛིན་རྣམ་པ་␣ར་ ཞིག་␣༔"
-msgstr "grasping [neither] direction; existence and non-existence"
+msgstr "Grasping [neither] direction; existence and non-existence"
 
 msgctxt "e67296d8f697428ebde0633161993cd9"
 msgid "འདི་ དོན་ བརྗོད་ ལ་ རྒྱལ་བ་␣འི་ ལྗགས་ ཀྱང་ རྡུགས་␣༔"
