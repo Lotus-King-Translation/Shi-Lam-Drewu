@@ -28,7 +28,7 @@ msgstr "Free from elaboration, intrinsic nature, primordially as it is"
 
 msgctxt "8f9a36410a1048f5929f93f2aa2ac6eb"
 msgid "ཡོད་པ་ མ་ ཡིན་ རྒྱལ་བ་␣ས་ འདི་ མ་ གཟིགས་␣༔"
-msgstr ""
+msgstr "Is not existent, རྒྱལ་བས་འདི་མ་གཟིགས་"
 
 msgctxt "7e79c895785b4533b0d5890ecda9b899"
 msgid "མེད་པ་ མ་ ཡིན་ འཁོར་འདས་ ཀུན་ གྱི་ གཞི་␣༔"
