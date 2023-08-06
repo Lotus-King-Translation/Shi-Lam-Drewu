@@ -36,7 +36,7 @@ msgstr "Is not non-existent, the ground of all of samsara and nirvana"
 
 msgctxt "d8b0207f1cb54a6e8279b00008d05c5f"
 msgid "འགལ་འདུ་ མ་ ཡིན་ བརྗོད་བྱ་␣འི་ ཡུལ་ ལ་␣ས་ འདས་␣༔"
-msgstr ""
+msgstr "Is not a contradiction, beyond being an object of speech"
 
 msgctxt "0f568bd5456544309c7bddd9baf72a55"
 msgid "རྫོགས་ཆེན་ གཞི་ ཡི་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཤོག་␣༔"
