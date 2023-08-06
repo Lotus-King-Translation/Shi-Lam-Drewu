@@ -54,6 +54,7 @@ msgstr ""
 msgctxt "62cecdf189194e72b3927c5799352f05"
 msgid "ཐུགས་རྗེ་ འགག་ མེད་ སྣ་ཚོགས་ སྤྲུལ་པ་␣འི་ གཞི་␣༔"
 msgstr ""
+"[Through] unceasing dynamic radiance, the ground of diverse emanations"
 
 msgctxt "3fc766601e594796930051e0f4db6575"
 msgid "གསུམ་ དུ་ དབྱེ་ ཡང་ དོན་ ལ་ ཐ་ མི་ དད་␣༔"
