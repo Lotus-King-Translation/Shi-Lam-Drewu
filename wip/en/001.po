@@ -80,6 +80,7 @@ msgstr ""
 msgctxt "29733e554cf942098cdfd6c81e36b77b"
 msgid "ཐོག་མཐའ་ བར་ མེད་ གཏིང་ གསལ་ ཆེན་པོ་␣འི་ དབྱིངས་␣༔"
 msgstr ""
+"Without beginning, end, or middle, the expanse of depth of great clarity, "
 
 msgctxt "6776bb41669a42c098ad53e1c1d1a2fa"
 msgid "རྫོགས་ཆེན་ གཞི་ ཡི་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཤོག་␣༔"
