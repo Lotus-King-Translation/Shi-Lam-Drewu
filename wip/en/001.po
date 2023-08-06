@@ -40,7 +40,7 @@ msgstr "Is not a contradiction, beyond being an object of speech"
 
 msgctxt "0f568bd5456544309c7bddd9baf72a55"
 msgid "རྫོགས་ཆེན་ གཞི་ ཡི་ གནས་ལུགས་ རྟོགས་པ་␣ར་ ཤོག་␣༔"
-msgstr "Realizing ground of Dzogchen as it is."
+msgstr "Realizing the ground of Dzogchen as it is."
 
 msgctxt "3ecb379b2c56416f9831c9f55a2674b4"
 msgid "ངོ་བོ་ སྟོང་པ་␣ས་ རྟག་པ་␣འི་ མཐའ་ ལ་␣ས་ གྲོལ་␣༔"
